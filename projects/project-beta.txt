@@ -1,8 +1,0 @@
-Project Beta
-Team: Hasnat Ahmed, Zubair
-Tech Stack: Python, FastAPI, PostgreSQL
-Milestones:
-1. Requirements Gathering
-2. API Development
-3. Database Integration
-4. Testing & Deployment
