@@ -11,3 +11,9 @@
 
 # Saad - HR
 The report contains all the AI based logics and all the modules where we integrated the ML models for the optimised preductive results for better understanding of the dataset.
+
+## Fahad - Engineering Department
+
+- Resolved merge conflicts in project-alpha
+- Attended weekly sync meetings
+- Updated Engineering department records
